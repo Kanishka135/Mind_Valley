@@ -1,0 +1,128 @@
+
+body{
+    
+    background-color: aliceblue;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
+
+.list{
+    list-style: none;
+}
+
+
+
+.side-bar{
+    background-color: antiquewhite;
+    
+    height: 100vh;
+    padding-right: 2vh;
+    margin-top: 0 ;
+    padding-top: 0;
+}
+
+.bar{
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-top: 40% ;
+    padding-bottom: 40%;
+}
+
+.bar-bottom{
+   padding-top: 120%;
+   padding-bottom: 50%;
+   margin-bottom: 0;
+}
+
+.bar-item{
+    padding-top: 30px;
+}
+
+.bar-heading{
+    padding-top: 20px;;
+}
+
+.content{
+ vertical-align: top;
+}
+
+.user{
+    margin-top: 35px;
+    margin-left: 50px;;
+}
+
+.user-button{
+    margin-top: 32px;
+    margin-left: 30px;
+}
+
+.shadow{
+    box-shadow: 0 0 20px 8px #d0d0d0 !important;
+    border-radius: 20px;
+    margin-left: 4vh;
+}
+
+.card-container{
+    background-color: bisque;
+    height: 35vh ;
+    width: 20vw;
+    margin-top: 4vh;;
+    display: flex;
+    padding: 30px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.profile_img{
+    height: 100px ;
+    width: 100px;
+    border-radius: 100%;
+   
+}
+
+.profile-bottom{
+    background-color: bisque;
+    margin-top: 15vh;
+    height:20vh;
+    width:30vw;
+    padding: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.journal-profile{
+    background-color: bisque;
+    display: flex;
+    padding: 10px;
+    margin-left:10vw;
+    height: 80vh;
+    width: 40vw;
+    flex-direction: column;
+    align-items: center;
+}
+
+.journal-form{
+    margin-top: 40vh;
+}
+
+.journal-textbox{
+    border-radius: 20px;
+    margin: 10px;;
+    width: 30vw;
+}
+
+.journal-button{
+    border-radius: 20px;
+    padding: 10px;;
+    background-color: antiquewhite;
+}
+
+
+  
+

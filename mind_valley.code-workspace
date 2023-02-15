@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Secrets"
+		},
+		{
+			"path": "../section-32/Authentication-Security-master"
+		}
+	],
+	"settings": {}
+}
